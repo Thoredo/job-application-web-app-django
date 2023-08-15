@@ -135,3 +135,4 @@ GitHub.sublime-settings
 !.vscode/launch.json 
 !.vscode/extensions.json 
 .history
+mysite/__pycache__/settings.cpython-310.pyc
