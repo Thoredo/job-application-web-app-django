@@ -1,0 +1,2 @@
+# Project description
+This project creates a django web app where users can fill in an application form. The input gets stored in a database and shown to the company the site would be for through an admin panel. It also sents a confirmation message to the user on their given email.
